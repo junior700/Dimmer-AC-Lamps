@@ -1,4 +1,4 @@
-# Dimmer-AC-Lamps
+# Dimmer-AC-Lamps-Using-Aruino-Android
 Códigos para Dimerização de cargas AC usando Arduino
 Hardware relacionado:
 
